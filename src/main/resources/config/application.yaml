@@ -1,0 +1,5 @@
+spring.datasource:
+  type: com.mysql.cj.jdbc.MysqlDataSource
+  username: lts
+  password: root
+  url: jdbc:mysql://localhost/proj
